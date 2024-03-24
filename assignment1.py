@@ -1,7 +1,7 @@
 """
 Name:MA YONGJIN
 Date started:2024.24.03
-GitHub URL (of this assignment):
+GitHub URL (of this assignment):https://github.com/cp1404-students/a1-movies2see-Mayongjin1404/blob/main/assignment1.py
 Remember to NEVER make this assignment repo public
 """
 import csv
